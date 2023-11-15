@@ -33,6 +33,7 @@ p {
   background-repeat: repeat-x;
   text-align: center;
   line-height: 1;
+  float: right;
 }
 
 h1, h2 {
