@@ -1,2 +1,9 @@
-body { 
-  background-color: #b5a789;}
+.header{
+        width:100%;
+        overflow: auto;
+      }
+    
+.img{
+    float: left;
+    margin-right:10px;
+    }
