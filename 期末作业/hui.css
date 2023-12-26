@@ -15,6 +15,7 @@
     overflow: hidden;
     box-shadow: 2px 4px 10px rgba(0,0,0,0.3);
     margin-top: -100px;
+    /*width:100px;*/
 }
 .part7_left{
     /* float: left; */
@@ -50,9 +51,6 @@
     margin-top: 20px;
     margin-bottom: 20px;
     padding-left: 10px;
-    /* padding: 0 46px;
-    margin-top: 33px; */
-    /* border-right: 1px solid #999; */
 }
 .part7_right_header a:first-child::after {
     /* content: '';
